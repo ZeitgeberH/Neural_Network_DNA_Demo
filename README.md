@@ -20,8 +20,6 @@ Point your browse to the Satori Open On-Demand (OOD) portal.
 
 On the top menu bar got to Clusters -> Satori Shell Access.
 
-Install keras using "conda install keras".
-
 In the shell get the test repo by typing git clone https://github.com/choudary21/Neural_Network_DNA_Demo.
 
 Once the git clone is done, go back to the OOD Dashboad window (labeld My Interactive Sessions) and go to menu option Interactive Apps -> Jupyter Notebook.
